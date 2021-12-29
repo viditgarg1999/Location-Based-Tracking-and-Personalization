@@ -1,0 +1,13 @@
+X1,X2,Y1,Y2,Name,Type
+50,125,50,125,Mcdonalds,Restaurant
+125,175,50,125,Subway,Restaurant
+50,125,125,200,KFC,Restaurant
+50,125,200,250,Pizza Hut,Restaurant
+200,260,50,175,Clothing,Shopping
+260,330,50,175,Liquor,Shopping
+275,330,175,225,Café,Restaurant
+200,300,225,250,Haldiram,Shopping
+300,400,300,400,Samsung,Electronics
+400,500,300,400,Apple,Electronics
+300,400,450,500,Lakme,Cosmetics
+550,600,300,400,Zara,Clothing
